@@ -1,0 +1,37 @@
+[ {
+  "name": "Elementor",
+  "slug": "elementor",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Royal Elementor Addons and Templates",
+  "slug": "royal-elementor-addons",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Prime Slider – Addons For Elementor",
+  "slug": "bdthemes-prime-slider-lite",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "WooCommerce",
+  "slug": "woocommerce",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "GTranslate",
+  "slug": "gtranslate",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "Currency Switcher for WooCommerce",
+  "slug": "currency-switcher-woocommerce",
+  "required": false,
+  "force_activation": false
+}, {
+  "name": "YITH WooCommerce Wishlist",
+  "slug": "yith-woocommerce-wishlist",
+  "required": false,
+  "force_activation": false
+}
+]
